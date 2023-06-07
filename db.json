@@ -1,0 +1,105 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+				{
+				    "correct": 0,
+				    "content": [
+				        "Uruguay",
+				        "Brazil",
+				        "Argentina",
+				        "Paraguay"
+				    ],
+				    "question": "Đội bóng đã từng đoạt nhiều chức vô địch Copa America nhất?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Bèo tấm",
+				        "Bèo tổ ong",
+				        "Bèo hoa dâu",
+				        "Bèo cái"
+				    ],
+				    "question": "Phi hành gia Phạm Tuân đã mang loại thực vật nào để nghiên cứu trên con tàu vũ
+                    trụ Phương Đông ?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Giao hưởng",
+				        "Hòa tấu nhạc cụ dân tộc",
+				        "Nhạc kịch",
+				        "Trường ca"
+				    ],
+				    "question": "Tác phẩm QUÊ HƯƠNG của cố nhạc sĩ Hoàng Việt thuộc thể loại nào?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Số thực",
+				        "Số phức",
+				        "Số nguyên",
+				        "Số hữu tỷ"
+				    ],
+				    "question": "Số nào có phần thực và phần ảo"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Lai phân tích",
+				        "Lai thuận nghic9",
+				        "Lai xa",
+				        "lai gần"
+				    ],
+				    "question": "Sau khi đưa ra giả thuyết về phân ly đồng đều, Menden đã kiểm tra giả thuyết
+                    của mình bằng phép lai nào"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Lionel Messi",
+				        "Kylian mbappe",
+				        "Christiano Ronaldo",
+				        "Thomas Muller"
+				    ],
+				    "question": "Cầu thủ bóng đá nào sau đây chưa từng có danh hiệu vô địch World Cup khi thi đấu trong đội quốc gia"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "30/5/1975",
+				        "30/4/1976",
+				        "30/4/1975",
+				        "30/5/1976"
+				    ],
+				    "question": "Ngày giải phóng miến Nam diễn ra vào"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Nguyễn Công Phượng",
+				        "Christiano Ronaldo",
+				        "David Beckham",
+				        "Lionel Messi"
+				    ],
+				    "question": "Cầu thủ nào sau đây từng đạt được nhiều danh hiệu Quả bóng vàng nhất?"
+				}
+				
+		    ]
+		}
+		
+		   
+		        
+		            
+		    
+		
+		
+		    
+		        
+		            
+				
+				
+		    
+		
+	]
+}
